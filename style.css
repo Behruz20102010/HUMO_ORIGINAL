@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+.Behruz_1{
+    width: 280px;
+    height: 300px;
+}
+.Behruz_1>img{
+    width: 280px;
+    height: 300px;
+
+}
+.Behruz{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    row-gap: 50px;
+    flex-wrap: wrap;
+}
